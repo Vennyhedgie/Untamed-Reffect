@@ -23,6 +23,24 @@ If the Let Loose trait is equipped, an additional element will be added. This ti
 
 <img width="809" height="305" alt="image" src="https://github.com/user-attachments/assets/4aae5a6d-831f-44d9-a326-6ce160a7a3ae" />
 
+# Extra options
+
+This pack has 3 versions you can choose from, though type 3 is the recommended default.
+
+Type 1: 
+
+<img width="827" height="305" alt="image" src="https://github.com/user-attachments/assets/a9d24f43-4442-44d8-98df-0ba99f418fc8" />
+
+Type 2:
+Is lined up to override some existing UI. Not the prettiest, but it reduces a bit of the vertical space taken up by type 2, at the cost of blocking the pet control elements. Since these are used fairly sparingly, I thought it'd be an OK option.
+
+<img width="829" height="283" alt="image" src="https://github.com/user-attachments/assets/c9c7f05a-32f0-48a5-a89b-ddb677e46171" />
+
+To change the layout, expand the pack and enable whichever one you prefer:
+
+<img width="217" height="137" alt="image" src="https://github.com/user-attachments/assets/fea58218-4fea-4077-b849-5b819161f4a6" />
+<img width="594" height="252" alt="image" src="https://github.com/user-attachments/assets/8d6af97d-f102-4773-b553-9349375fb07f" />
+
 
 # How to use
 Simply download the zip file to your reffect root folder like so:
