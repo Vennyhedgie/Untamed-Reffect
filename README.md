@@ -23,6 +23,8 @@ If the Let Loose trait is equipped, an additional element will be added. This ti
 
 <img width="809" height="305" alt="image" src="https://github.com/user-attachments/assets/4aae5a6d-831f-44d9-a326-6ce160a7a3ae" />
 
+Additionally, if Let Loose is equipped, a quickness icon will be displayed if you are in combat and you don't have quickness, to remind you to ambush. If you don't like this, simply disable the Quickness icon inside the pack.
+
 # Extra options
 
 This pack has 3 versions you can choose from, though type 3 is the recommended default.
